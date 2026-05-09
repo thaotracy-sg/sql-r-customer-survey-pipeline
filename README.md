@@ -9,8 +9,8 @@
 
 ## 📌 Overview
 
-This project builds a **complete end-to-end data pipeline** — from raw CSV file
-to a monthly analytics dashboard — combining Python, MySQL, and R across
+This project builds a **complete end-to-end data pipeline** - from raw CSV file
+to a monthly analytics dashboard - combining Python, MySQL, and R across
 four stages of data engineering and analysis.
 
 The dataset contains customer survey responses from a shopping mall across
@@ -34,18 +34,6 @@ ECA_data_raw.csv
       │
       ▼
 [R + DBI]  Read from MySQL → Visualise with ggplot2
-```
-
----
-
-## 📂 Repository Structure
-
-```
-sql-r-customer-survey-pipeline/
-│
-├── ANL503_DataWrangling_ECA.Rmd    ← Full analysis (R Markdown)
-├── ANL503_DataWrangling_ECA.html   ← Rendered report (open in browser)
-└── README.md
 ```
 
 ---
