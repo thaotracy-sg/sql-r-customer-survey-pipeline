@@ -108,12 +108,13 @@ CONCAT(
 
 ---
 
-## 🔗 Related Projects
+## 🔗 More Projects
 
-- [📱 Mobile Game Downloads — Panel Data Analysis](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp)
-- [🌿 Sustainable Brand Choice — Binary Logit](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis)
-- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe)
-
+ 📊 [Power BI IMS Dashboard Enhancement – Healthcare](https://github.com/thaotracy-sg/powerbi-ims-dashboard-enhancement-healthcare) <br>
+ 📱 [Causal Analysis Using Panel Logit Model – Game App](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) <br>
+ 🌿 [Sustainable Brand Logit Analysis](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) <br>
+ 🧴 [Commercial Analytics – Skincare Channel Performance](https://github.com/thaotracy-sg/Commercial-analytics-skincare-channel-performance) <br>
+ 🔋 [Time Series Forecasting – Electric Power & CO2 Emissions](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) <br>
 ---
 
 *Analysis by Tracy Nguyen | ANL503 Data Wrangling | SUSS 2025*
